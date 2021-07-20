@@ -1,4 +1,4 @@
-export default class Item {
+export default abstract class Item {
   categoria: string;
   quantidade: number;
   preco: number;
